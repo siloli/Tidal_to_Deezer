@@ -29,7 +29,7 @@ the file `credentials_deezer.json` should be like this:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/siloli/Tidal-to-Deezer.git
+   git clone https://github.com/siloli/Tidal_to_Deezer.git
    ```
 
 2. Install the required Python packages:
