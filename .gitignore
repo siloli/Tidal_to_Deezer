@@ -6,7 +6,7 @@ __pycache__/
 
 # Ignore credentials.json files
 credentials_tidal.json
-my_deezer_credentials.json
+credentials_deezer.json
 
 # Ignore .DS_Store files
 .DS_Store
