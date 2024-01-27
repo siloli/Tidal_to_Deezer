@@ -59,8 +59,7 @@ the file `credentials_deezer.json` should be like this:
      ```python
      #Here I don't want to transfer my loved tracks, so I comment the function
 
-     get_tidal_tracks_from_playlist(
-     boring arguments)
+     get_tidal_tracks_from_playlist(boring arguments)
      get_tidal_artists(boring arguments)
      get_tidal_albums(boring arguments)
      #put hashtag in front of the function you don't want to use
