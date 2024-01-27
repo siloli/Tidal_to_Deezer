@@ -1,0 +1,15 @@
+# Ignore .env file
+.env
+
+# Ignore pycache directory
+__pycache__/
+
+# Ignore credentials.json files
+credentials_tidal.json
+my_deezer_credentials.json
+
+# Ignore .DS_Store files
+.DS_Store
+
+# Ignore txt files
+Tidal_to_Deezer_LogFile.txt
